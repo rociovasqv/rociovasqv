@@ -4,7 +4,6 @@ Hi 👋 I´m Rocío
 Full stack Developer
 --------------------
 
-* 🌍  I'm based in Argentina
 * ✉️  You can contact me at [rovasquezvargas@gmail.com](mailto:rovasquezvargas@gmail.com)
 * 🧠  I'm learning Python, SQL and cybersecurity's fundamentals
 * ⚡  I'm deaf and I love writing, learning new languages and doing creative stuffs.
