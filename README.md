@@ -1,4 +1,4 @@
-Hi 👋 My name is Rocío Vasquez
+Hi 👋 I´m Rocío
 ==============================
 
 Full stack Developer
