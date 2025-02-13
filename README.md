@@ -5,8 +5,8 @@ Full stack Developer
 --------------------
 
 * ✉️  You can contact me at [rovasquezvargas@gmail.com](mailto:rovasquezvargas@gmail.com)
-* 🧠  I'm learning Python, SQL and cybersecurity's fundamentals
-* ⚡  I'm deaf and I love writing, learning new languages and doing creative stuffs.
+* 🧠  I'm learning Python and cybersecurity's fundamentals
+* ⚡  As hobbies, I love writing, learning new languages and doing creative stuffs.
 
 ### Skills
 
