@@ -1,7 +1,7 @@
 Hi 👋 I´m Rocío
 ==============================
 
-Full stack Developer
+Full-stack Developer
 --------------------
 
 * ✉️  You can contact me at [rovasquezvargas@gmail.com](mailto:rovasquezvargas@gmail.com)
